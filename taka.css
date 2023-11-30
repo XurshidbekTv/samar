@@ -2,3 +2,7 @@ h1{
     background-color: blueviolet
  
 };
+ p{
+    background-color: yellowgreen;
+    box-sizing: border-box;
+ }
